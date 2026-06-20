@@ -1,0 +1,41 @@
+{
+  "total_flares": 12,
+  "alerted": 12,
+  "alerted_rate": 1.0,
+  "lead_time_mean": 29.494444444444444,
+  "lead_time_median": 29.525,
+  "lead_time_min": 29.1,
+  "lead_time_max": 29.866666666666667,
+  "per_class": {
+    "A": {
+      "total": 0,
+      "alerted": 0,
+      "tpr": 0.0,
+      "lead_med": NaN
+    },
+    "B": {
+      "total": 0,
+      "alerted": 0,
+      "tpr": 0.0,
+      "lead_med": NaN
+    },
+    "C": {
+      "total": 6,
+      "alerted": 6,
+      "tpr": 1.0,
+      "lead_med": 29.458333333333336
+    },
+    "M": {
+      "total": 5,
+      "alerted": 5,
+      "tpr": 1.0,
+      "lead_med": 29.516666666666666
+    },
+    "X": {
+      "total": 1,
+      "alerted": 1,
+      "tpr": 1.0,
+      "lead_med": 29.633333333333333
+    }
+  }
+}
