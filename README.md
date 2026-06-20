@@ -64,6 +64,12 @@ pipeline/
   evaluator.py          TPR/FPR tables, lead time stats, false alarm rate
 dashboard/
   app.py                Streamlit dashboard: browse mode + simulated live replay
+notebooks/
+  Pipeline_Walkthrough.ipynb   Read-only-friendly walkthrough for the team — imports
+                                and calls the pipeline package directly, doesn't
+                                reimplement any logic. Run `python run_pipeline.py`
+                                first, then open this for an annotated, plotted
+                                walkthrough of the same run.
 data/                   Drop your PRADAN downloads here
 outputs/                All generated catalogues, model, and reports land here
 ```
